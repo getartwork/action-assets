@@ -13,6 +13,11 @@ Setting up a hello world web server on port 3000 using node.js.
     }).listen(3000, '0.0.0.0');
     console.log('Server running at http://0.0.0.0:3000/');
 
+Then make sure to run your node server in the console (substitute your file name):
+
+    run helloworld.js
+
+
 ### Python example
 
 When running a simple development server with [Django](https://docs.djangoproject.com/en/dev/intro/), we recommend:
